@@ -4,6 +4,6 @@ Humour is an abstract, high-level use of language that's largely subjective. We 
 We then tried different models such as FFN, RNNs, and LSTM to see if it could capture more complexity and it did, with LSTM proving to be the best model because of it being more complex to be able to capture humor via sarcasm.<br>
 We also attach video explanation link and Report on the same.<br>
 
-Neha Sajnani (17CE096)
-Kalind Sarda (17CE101)
+Neha Sajnani (17CE096) <br>
+Kalind Sarda (17CE101) <br>
 Vishal Shah (17CE118)
